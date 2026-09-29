@@ -1,4 +1,4 @@
-#Author: Valentine, Purpose: Correlation Test
+#Author: Forrester, Purpose: Correlation Test
 
 #Install Library
 if(!require(devtools)) install.packages("devtools") devtools::install_github("kassambara/ggpubr")
